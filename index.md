@@ -10,3 +10,7 @@
 ```bicep
 param test string = "test bicep code"
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
