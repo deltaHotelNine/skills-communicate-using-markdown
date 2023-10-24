@@ -6,3 +6,7 @@
 ###### H6 Heading
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```bicep
+param test string = "test bicep code"
+```
